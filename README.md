@@ -8,6 +8,6 @@
 * [Просмотреть видео](https://youtu.be/WU4JuG35XAQ);
 * [Сделать форк репозитория с файлами по ссылке](https://github.com/fufaev/figma-lesson-1), реализовать лендинг простого сайта (танцевальной студии) используя знания, полученные в видеоуроке.
 * Для продвинутых разработчиков на основе любого простого Figma Template реализовать вариант лендинга (тренажерный зал) со своими фотографиями, текстами на русском языке, изменить телефоны на белорусские + карта расположения должна отбражать локацию в г. Минске. 
-<div align="center"><img src="https://github.com/fufaev/figma-lesson-1/blob/main/images/demo1.jpg" alt="образец" width="650">
-
+<div align="center"><img src="https://github.com/fufaev/figma-lesson-1/blob/main/images/demo1.jpg" alt="образец" width="650"></div>
+<div align="center"><img src="https://github.com/fufaev/figma-lesson-1/blob/main/images/demo2.png" alt="образец" width="650">
 </div>
